@@ -1,0 +1,19 @@
+{
+  "name": "Videre",
+  "version": "0.0.1",
+  "description": "an open-source content management system written in C#",
+  "main": "index.js",
+  "authors": {
+    "name": "Jon Henning",
+    "email": "jonhenning@gmail.com"
+  },
+  "repository": "https://github.com/jonhenning/videre/Videre",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
