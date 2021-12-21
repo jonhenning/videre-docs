@@ -1,6 +1,6 @@
 # Widget Folder Structure
 
-<ImageComponent src="/folderstructure.png" style="float: right;" />
+<ImageComponent src="/folderstructure.png" styles="float: right;" />
 
 When developing a widget it is important to keep in mind the way it will be packaged and deployed within the Videre CMS.  As discussed in the [Help -> Packages](../guide/packages.md) page, upon installation, a widget will be extracted into the root of your videre portal.  Therefore the folders created in your widget should match up with where you want the files deployed. 
 

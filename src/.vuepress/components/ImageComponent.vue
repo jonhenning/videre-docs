@@ -1,10 +1,10 @@
 <template>
-  <img :src="$withBase(src)" :style="style"></iframe>
+  <img :src="$withBase(src)" :style="styles"></iframe>
 </template>
 <script>
 
 export default {
-  props: ['src', 'style']
+  props: ['src', 'styles']
 }
 </script>
 
